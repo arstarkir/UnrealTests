@@ -5,7 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Git/UnrealTests/TestProject/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Git/UnrealTests/TestProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Git/UnrealTests/TestProject/Content/FirstPerson/Blueprints/Hand.uasset",
+				"C:/Git/UnrealTests/TestProject/Content/FPWeapon/Mesh/SK_FPGun1.uasset",
+				"C:/Git/UnrealTests/TestProject/Content/FPWeapon/Mesh/FirstPersonProjectileMesh1.uasset"
 			]
 		}
 	]
